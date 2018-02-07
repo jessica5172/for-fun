@@ -1,0 +1,27 @@
+/*reset section*/
+ul, li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+ul {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 1.8em;
+  width: 100%;
+  background-color: lightblue;
+}
+li{
+  display: inline;
+}
+footer{
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 1.8em;
+  width: 100%;
+  background-color: green;
+}
